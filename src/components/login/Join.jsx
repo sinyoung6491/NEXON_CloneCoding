@@ -17,11 +17,11 @@ const Join = () => {
                 <div className='wrap'>
                     <img src={logo} alt="" />
                     <div className="more">
-                        <a>넥슨닷컴</a>
-                        <p>|</p>
-                        <a className="join">회원가입</a>
-                        <p>|</p>
-                        <a className="login">로그인</a>
+                        <p className='txt'>넥슨닷컴</p>
+                        <p className='bar'>|</p>
+                        <p className="txt">회원가입</p>
+                        <p className='bar'>|</p>
+                        <p className="txt">로그인</p>
                     </div>
                 </div>
             </div>
