@@ -56,7 +56,7 @@ const Main = () => {
                     {/* Menu items */}
                     <div className="menu_content">
                         <div className="top">
-                            <a>전체게임</a>
+                            <p>전체게임</p>
                             <div className="center">고객센터</div>
                         </div>
 
